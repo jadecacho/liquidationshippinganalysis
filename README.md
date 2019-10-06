@@ -1,9 +1,9 @@
 # Shipping Analysis and Freight Prediction
 
-Project Started: 28 Sep 2019
-Project Ended: 
-Project Presented to Client: 
-NOTE: Detailed report analysis was sent to the DL Management
+Project Started: 28 Sep 2019 <br>
+Project Ended:  <br>
+Project Presented to Client:  <br>
+NOTE: Detailed report analysis was sent to the DL Management <br>
 
 ## Project Goal
 
