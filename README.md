@@ -3,7 +3,7 @@
 Project Started: 28 Sep 2019 <br>
 Project Ended:  <br>
 Project Presented to Client:  <br>
-NOTE: Detailed report analysis was sent to the DL Management <br>
+NOTE: Detailed report analysis will be sent to the DL Management <br>
 
 ## Project Goal
 
