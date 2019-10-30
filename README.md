@@ -9,7 +9,7 @@ NOTE: Detailed report analysis will be sent to the DL Management <br> and the da
 
 ## Project Goal
 
-1. Data analysis to answer business questions.
+1. Data analysis to answer business questions (marketing and customer service recommendations were added)
 2. To create a freight predictive model
 
 Codes will be uploaded once permitted by the client.
